@@ -1,0 +1,13 @@
+{
+  "name": "apg",
+  "version": "1.0.0",
+  "dependencies": {
+    "active-win": "^7.6.1",
+    "chokidar": "^3.5.2",
+    "firebase-admin": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "node-key-sender": "^1.0.11",
+    "package.json": "^2.0.1",
+    "q": "^1.5.1"
+  }
+}
